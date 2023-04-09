@@ -1,4 +1,4 @@
-# Ray-Monte-Carlo-Estimation-of-π
+# Ray Monte Carlo Estimation of π
 
 This is a Python application that uses Ray, a distributed computing framework, to estimate the value of π using the Monte Carlo method.
 Getting Started
