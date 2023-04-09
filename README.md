@@ -3,10 +3,6 @@
 This is a Python application that uses Ray, a distributed computing framework, to estimate the value of π using the Monte Carlo method.
 Getting Started
 
-To run this application, you will need to have Ray installed on your machine. You can install it using pip:
-
-pip install ray
-
 Usage
 
     Clone the repository to your local machine.
